@@ -1,5 +1,5 @@
 {
-  "name": "antoinelhf/sanidatatables-bundle",
+  "name": "antoinelhf/sani-datatables-bundle",
   "type": "symfony-bundle",
   "description": "A Symfony2 bundle that provide datatableprovider.",
   "license": "MIT",
