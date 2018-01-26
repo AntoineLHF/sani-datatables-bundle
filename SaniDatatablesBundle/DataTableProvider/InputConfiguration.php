@@ -1,6 +1,6 @@
 <?php
 
-namespace Sanilea\SanidatatablesBundle\DataTableProvider;
+namespace Sanilea\SaniDatatablesBundle\DataTableProvider;
 
 /**
  * Class InputConfiguration.

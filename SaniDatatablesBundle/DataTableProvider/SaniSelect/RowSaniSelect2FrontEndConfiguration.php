@@ -1,8 +1,8 @@
 <?php
 
-namespace Sanilea\SanidatatablesBundle\DataTableProvider\SaniSelect;
+namespace Sanilea\SaniDatatablesBundle\DataTableProvider\SaniSelect;
 
-use Sanilea\SanidatatablesBundle\DataTableProvider\RowFrontEndConfiguration;
+use Sanilea\SaniDatatablesBundle\DataTableProvider\RowFrontEndConfiguration;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
 class RowSaniSelect2FrontEndConfiguration extends RowFrontEndConfiguration {
