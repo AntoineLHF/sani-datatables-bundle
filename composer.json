@@ -1,0 +1,11 @@
+{
+  "name": "antoinelhf/sanidatatables-bundle",
+  "type": "symfony-bundle",
+  "description": "A Symfony2 bundle that provide datatableprovider.",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "doctrine/orm": "^2.5"
+  },
+  "target-dir": "Sanilea/SanidatatableBundle",
+}
