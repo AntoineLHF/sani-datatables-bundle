@@ -1,6 +1,6 @@
 <?php
 
-namespace SanidatatablesBundle;
+namespace Sanilea\SanidatatablesBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
