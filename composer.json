@@ -4,8 +4,12 @@
   "description": "A Symfony2 bundle that provide datatableprovider.",
   "license": "MIT",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.1",
     "doctrine/orm": "^2.5"
   },
-  "target-dir": "Sanilea/SanidatatableBundle"
+  "autoload": {
+    "psr-4": {
+      "Sanilea\\SaniDatatablesBundle\\": "src/SaniDatatablesBundle"
+    }
+  }
 }
