@@ -1,9 +1,7 @@
 <?php
 
-namespace App\DataTableProvider;
+namespace Sanilea\SanidatatablesBundle\DataTableProvider;
 
-use Database\ActiveRecord;
-use Database\Exception\ActiveRecordException;
 use DH\BootstrapBundle\Helper\ArrayHelper;
 use Doctrine\Bundle\DoctrineBundle\Twig\DoctrineExtension;
 use Doctrine\ORM\EntityManagerInterface;

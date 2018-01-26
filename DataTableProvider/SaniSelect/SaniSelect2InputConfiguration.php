@@ -1,8 +1,8 @@
 <?php
 
-namespace App\DataTableProvider\SaniSelect;
+namespace Sanilea\SanidatatablesBundle\DataTableProvider\SaniSelect;
 
-use App\DataTableProvider\InputConfiguration;
+use Sanilea\SanidatatablesBundle\DataTableProvider\InputConfiguration;
 
 class SaniSelect2InputConfiguration extends InputConfiguration
 {

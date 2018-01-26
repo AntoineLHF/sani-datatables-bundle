@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DataTableProvider;
+namespace Sanilea\SanidatatablesBundle\DataTableProvider;
 
 use Symfony\Component\OptionsResolver\OptionsResolver;
 

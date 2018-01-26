@@ -1,8 +1,8 @@
 <?php
 
-namespace App\DataTableProvider\SaniSelect;
+namespace Sanilea\SanidatatablesBundle\DataTableProvider\SaniSelect;
 
-use App\DataTableProvider\AbstractSaniDataTableProvider;
+use Sanilea\SanidatatablesBundle\DataTableProvider\AbstractSaniDataTableProvider;
 
 /**
  * Class AbstractSaniSelect2DataTableProvider.
